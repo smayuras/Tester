@@ -2,5 +2,6 @@ class Hello{
 
 public static void main(String s[]){
 System.out.println("Congragulation Mayura");
+System.out.println();
 }
 }
